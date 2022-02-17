@@ -1,6 +1,4 @@
 
-a/      @AlaMaKotaOrg/secret-team
-b/      @AlaMaKotaOrg/visible-team
-
-# leave unrestricted:
-.github/CODEOWNERS 
+a/            @AlaMaKotaOrg/secret-team
+b/            @AlaMaKotaOrg/visible-team
+platonn.txt   @Platonn
