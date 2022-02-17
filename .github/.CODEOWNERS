@@ -1,0 +1,4 @@
+*       @secret team
+
+*.js    @js-owner
+*.txt   @txt-owner
