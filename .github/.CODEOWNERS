@@ -1,7 +1,7 @@
 *       @AlaMaKotaOrg/secret-team
 
 a/      @AlaMaKotaOrg/secret-team
-b/      @AlaMaKotaOrg/secret-team
+b/      @AlaMaKotaOrg/visible
 
 # leave unrestricted:
 .github/.CODEOWNERS 
