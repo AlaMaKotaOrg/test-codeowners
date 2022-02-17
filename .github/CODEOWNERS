@@ -4,4 +4,4 @@ a/      @AlaMaKotaOrg/secret-team
 b/      @AlaMaKotaOrg/visible-team
 
 # leave unrestricted:
-.github/.CODEOWNERS 
+.github/CODEOWNERS 
