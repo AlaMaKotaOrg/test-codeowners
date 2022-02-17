@@ -1,4 +1,7 @@
-*       @secret team
+*       @AlaMaKotaOrg/secret-team
 
-*.js    @js-owner
-*.txt   @txt-owner
+a/      @AlaMaKotaOrg/secret-team
+b/      @AlaMaKotaOrg/secret-team
+
+# leave unrestricted:
+.github/.CODEOWNERS 
